@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	{ "keys": ["ctrl+shift+["], "command": "toggle_side_bar"},
+	{ "keys": ["ctrl+shift+]"], "command": "toggle_minimap" }
+]

@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoHotkey",
+		"Cucumber",
+		"Flask Completions",
+		"Floobits",
+		"Git",
+		"Gradle_Language",
+		"Package Control",
+		"Racket",
+		"Rust",
+		"Scheme",
+		"Search Anywhere",
+		"SublimeREPL"
+	]
+}
